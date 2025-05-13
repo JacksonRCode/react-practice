@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div>
-      </div>
-      <h1>Hey there you silly goose</h1>
+      	<h1>Hey there you silly goose</h1>
+      </div>	
     </>
   )
 }
